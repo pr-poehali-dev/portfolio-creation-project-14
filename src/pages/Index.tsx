@@ -33,12 +33,11 @@ const Index = () => {
 
   const galleryImages = [
     'https://cdn.poehali.dev/files/photo_2025-07-08_08-13-50.jpg',
-    'https://images.unsplash.com/photo-1492691527719-9d1e07e534b4',
-    'https://images.unsplash.com/photo-1511285560929-80b456fea0bc',
-    'https://images.unsplash.com/photo-1519741497674-611481863552',
-    'https://images.unsplash.com/photo-1502982899975-b62c3f88e82e',
-    'https://images.unsplash.com/photo-1495364141860-b0d03eccd065',
-    'https://images.unsplash.com/photo-1516035069371-29a1b244cc32'
+    'https://cdn.poehali.dev/files/photo_2025-07-10_05-00-30.jpg',
+    'https://cdn.poehali.dev/files/photo_2025-10-13_16-23-41.jpg',
+    'https://cdn.poehali.dev/files/photo_2025-10-13_16-51-48.jpg',
+    'https://cdn.poehali.dev/files/photo_2025-10-13_17-07-18.jpg',
+    'https://cdn.poehali.dev/files/photo_2025-08-12_11-53-43.jpg'
   ];
 
   return (
@@ -105,7 +104,7 @@ const Index = () => {
               >
                 <img 
                   src={img} 
-                  alt={`Фотография ${idx + 1}`}
+                  alt=""
                   className="w-full h-full object-cover"
                 />
               </div>
