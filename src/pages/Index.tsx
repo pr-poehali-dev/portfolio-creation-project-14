@@ -224,11 +224,11 @@ const Index = () => {
             <div>
               <h4 className="text-xl font-bold font-montserrat mb-4">Контакты</h4>
               <div className="space-y-2 font-open">
-                <a href="tel:+79991234567" className="block text-gray-300 hover:text-primary transition-colors">
-                  +7 (999) 123-45-67
+                <a href="tel:+79502855685" className="block text-gray-300 hover:text-primary transition-colors">
+                  +7 (950) 285 56-85
                 </a>
-                <a href="mailto:photo@example.com" className="block text-gray-300 hover:text-primary transition-colors">
-                  photo@example.com
+                <a href="mailto:myrlinmag@gmail.com" className="block text-gray-300 hover:text-primary transition-colors">
+                  myrlinmag@gmail.com
                 </a>
               </div>
             </div>
