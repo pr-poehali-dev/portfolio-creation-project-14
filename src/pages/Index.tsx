@@ -71,7 +71,10 @@ const Index = () => {
       </nav>
 
       <section id="hero" className="pt-32 pb-20 px-4 animate-fade-in">
-        <div className="container mx-auto max-w-6xl">
+        <div className="container mx-auto max-w-6xl relative">
+          <div className="absolute left-0 top-1/2 -translate-y-1/2 hidden lg:block">
+            <div className="tenor-gif-embed" data-postid="1130525682031537914" data-share-method="host" data-aspect-ratio="1.29016" data-width="200px"></div>
+          </div>
           <div className="text-center space-y-6">
             <h2 className="text-6xl font-bold font-montserrat text-foreground leading-tight">
               Запечатлим<br />каждый момент
