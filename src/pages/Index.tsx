@@ -32,6 +32,7 @@ const Index = () => {
   };
 
   const galleryImages = [
+    'https://cdn.poehali.dev/files/image.png',
     'https://images.unsplash.com/photo-1492691527719-9d1e07e534b4',
     'https://images.unsplash.com/photo-1511285560929-80b456fea0bc',
     'https://images.unsplash.com/photo-1519741497674-611481863552',
