@@ -235,11 +235,11 @@ const Index = () => {
             <div>
               <h4 className="text-xl font-bold font-montserrat mb-4">Социальные сети</h4>
               <div className="flex gap-4">
-                <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" 
+                <a href="https://t.me/pupukaka228666" target="_blank" rel="noopener noreferrer" 
                    className="w-10 h-10 bg-white/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors">
-                  <Icon name="Instagram" size={20} />
+                  <Icon name="Send" size={20} />
                 </a>
-                <a href="https://vk.com" target="_blank" rel="noopener noreferrer"
+                <a href="https://vk.com/id706646370" target="_blank" rel="noopener noreferrer"
                    className="w-10 h-10 bg-white/10 rounded-full flex items-center justify-center hover:bg-primary transition-colors">
                   <Icon name="Globe" size={20} />
                 </a>
